@@ -20,6 +20,17 @@ const MedicineSchema = z.object({
         .string()
         .optional()
         .describe("Any additional notes or instructions"),
+    generics: z
+        .array(
+            z.object({
+                name: z.string().describe("The name of the generic medicine"),
+                //     rxcui: z
+                //         .string()
+                //         .optional()
+                //         .describe("The RxCUI of the generic medicine"),
+            })
+        )
+        .describe("Array of generic names for the medicine"),
     confidence: z
         .number()
         .min(0)
@@ -45,8 +56,8 @@ type NormalizedMedicine = z.infer<typeof MedicineSchema> & {
 
 // fuzzy search config
 const fuse = new Fuse(nlemData, {
-    keys: ["name", "dosageForms"],
-    threshold: 0.3, // tweak sensitivity
+    keys: ["name"],
+    threshold: 0.5,
 });
 
 // ----------------- RxNorm Helpers -----------------
@@ -150,7 +161,7 @@ export async function POST(req: Request) {
         const base64Image = Buffer.from(arrayBuffer).toString("base64");
 
         const result = await generateObject({
-            model: google("gemini-2.5-flash"),
+            model: google("gemini-2.5-pro"),
             schema: MedicinesExtractionSchema,
             messages: [
                 {
@@ -159,7 +170,7 @@ export async function POST(req: Request) {
                         { type: "image", image: base64Image },
                         {
                             type: "text",
-                            text: "Extract all medicines from this prescription image. For each medicine, identify the name, dosage, frequency, any notes, and provide a confidence score.",
+                            text: "Extract all medicines from this prescription image. For each medicine, identify the name, dosage, frequency, any notes, and provide a confidence score. Most importantly provide generic names as well that are relevant to India.",
                         },
                     ],
                 },
@@ -168,30 +179,7 @@ export async function POST(req: Request) {
 
         const medicines = result.object.medicines;
 
-        const normalizedMeds: NormalizedMedicine[] = [];
-        for (const med of medicines) {
-            // Step 1: Try RxNorm
-            let norm = await normalizeDrugName(med.name);
-
-            // Step 2: If RxNorm fails, try NLEM
-            if (!norm.normalized && norm.generics.length === 0) {
-                const nlemMatch = normalizeWithNLEM(med.name);
-                if (nlemMatch) norm = { ...norm, ...nlemMatch };
-            }
-
-            // Step 3: If nothing works, keep original
-            if (!norm.normalized) {
-                norm.normalized = med.name;
-                norm.generics = [{ name: med.name }];
-            }
-
-            normalizedMeds.push({ ...med, ...norm });
-        }
-
-        return NextResponse.json({
-            extracted: medicines,
-            normalized: normalizedMeds,
-        });
+        return NextResponse.json({ extracted: medicines });
     } catch (error) {
         console.error("Error processing image:", error);
         return NextResponse.json(
