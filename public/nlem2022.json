@@ -1,0 +1,3902 @@
+[
+    {
+        "code": "1.1.1",
+        "name": "Halothane",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Liquid for inhalation"
+        ]
+    },
+    {
+        "code": "1.1.2",
+        "name": "Isoflurane",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Liquid for inhalation",
+            "Injection 10 mg/mL",
+            "Injection 50 mg/mL"
+        ]
+    },
+    {
+        "code": "1.1.4",
+        "name": "Nitrous oxide",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "As licensed for medical purpose"
+        ]
+    },
+    {
+        "code": "1.1.5",
+        "name": "Oxygen*",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "As licensed for medical purpose"
+        ]
+    },
+    {
+        "code": "1.1.6",
+        "name": "Propofol",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 10 mg/mL"
+        ]
+    },
+    {
+        "code": "1.1.7",
+        "name": "Sevoflurane",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Liquid for inhalation",
+            "Injection 0.25 %",
+            "Injection 0.5 %",
+            "Injection 0.5 % with 7.5 %",
+            "Injection 1 %",
+            "Injection 2 %",
+            "Injection 5 % with 7.5 % glucose",
+            "Injection 1% (A) + 1:200000",
+            "Injection 0.6 mg/mL"
+        ]
+    },
+    {
+        "code": "1.3.2",
+        "name": "Glycopyrrolate",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 0.2 mg/mL",
+            "Tablet 7.5 mg"
+        ]
+    },
+    {
+        "code": "1.3.3",
+        "name": "Midazolam*",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Nasal Spray 1.25 mg",
+            "Injection 1 mg/mL",
+            "Injection 5 mg/mL",
+            "Injection 10 mg/mL",
+            "Injection 15 mg/mL"
+        ]
+    },
+    {
+        "code": "1.4.1",
+        "name": "Atracurium",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 10 mg/mL",
+            "Tablet 5 mg"
+        ]
+    },
+    {
+        "code": "1.4.2",
+        "name": "Baclofen",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 10 mg",
+            "Tablet 20 mg",
+            "Tablet 15 mg",
+            "Injection 0.5 mg/mL"
+        ]
+    },
+    {
+        "code": "1.4.4",
+        "name": "Succinylcholine",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 50 mg/mL",
+            "Tablet 300 mg to 500 mg"
+        ]
+    },
+    {
+        "code": "2.1.1",
+        "name": "",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Effervescent/ Dispersible/ Enteric",
+            "Tablet 50 mg",
+            "Injection 25 mg/mL",
+            "Tablet 200 mg"
+        ]
+    },
+    {
+        "code": "2.1.3",
+        "name": "Ibuprofen*",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 400 mg",
+            "Oral liquid 100 mg/5 mL (p)"
+        ]
+    },
+    {
+        "code": "2.1.4",
+        "name": "Mefenamic acid",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 250 mg",
+            "Oral liquid 100 mg/5 mL (p)",
+            "Tablet 500 mg",
+            "Tablet 650 mg",
+            "Oral liquid 120 mg/5 mL (p)",
+            "Oral Liquid 125 mg/5 mL (p)",
+            "Oral Liquid 250 mg/5 mL (p)",
+            "Injection 150 mg/ mL"
+        ]
+    },
+    {
+        "code": "2.2.1",
+        "name": "Fentanyl",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 50 mcg/mL",
+            "Tablet 10 mg"
+        ]
+    },
+    {
+        "code": "2.2.2",
+        "name": "Morphine*",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 10 mg/mL",
+            "Injection 15 mg/mL",
+            "Capsule 50 mg"
+        ]
+    },
+    {
+        "code": "2.2.3",
+        "name": "Tramadol**",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Capsule 100 mg",
+            "Injection 50 mg/mL",
+            "Tablet 100 mg",
+            "Tablet 300 mg"
+        ]
+    },
+    {
+        "code": "2.3.2",
+        "name": "Colchicine",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 0.5 mg",
+            "Tablet 25 mg (p)",
+            "Tablet 50 mg",
+            "Tablet 200 mg",
+            "Tablet 400 mg",
+            "Tablet 2.5 mg",
+            "Tablet 5 mg",
+            "Tablet 10 mg",
+            "Tablet 500 mg"
+        ]
+    },
+    {
+        "code": "3.1",
+        "name": "Adrenaline",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 1 mg/mL",
+            "Tablet 10 mg",
+            "Oral liquid 5 mg/5 mL (p)",
+            "Tablet 0.5 mg",
+            "Tablet 2 mg"
+        ]
+    },
+    {
+        "code": "3.3",
+        "name": "Dexamethasone*",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 4 mg",
+            "Oral liquid 0.5 mg/5 mL (p)",
+            "Injection 4 mg/mL",
+            "Tablet 5 mg",
+            "Tablet 10 mg"
+        ]
+    },
+    {
+        "code": "3.5",
+        "name": "Pheniramine",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 22.75 mg/mL",
+            "Tablet 5 mg",
+            "Tablet 10 mg"
+        ]
+    },
+    {
+        "code": "3.6",
+        "name": "Prednisolone***",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 20 mg",
+            "Oral liquid 5 mg/5 mL (p)",
+            "Oral liquid 15 mg/5 mL (p)"
+        ]
+    },
+    {
+        "code": "4.1.1",
+        "name": "Activated Charcoal",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Powder (as licensed)",
+            "Injection 0.6 mg/mL"
+        ]
+    },
+    {
+        "code": "4.2.2",
+        "name": "Calcium gluconate**",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 100 mg/mL",
+            "Capsule 150 mg (p)",
+            "Capsule 250 mg"
+        ]
+    },
+    {
+        "code": "4.2.4",
+        "name": "Desferrioxamine",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Powder for injection 500 mg"
+        ]
+    },
+    {
+        "code": "4.2.5",
+        "name": "chloride",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 10 mg/mL",
+            "Injection 200 mg/mL"
+        ]
+    },
+    {
+        "code": "4.2.7",
+        "name": "Naloxone",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 0.4 mg/mL"
+        ]
+    },
+    {
+        "code": "4.2.8",
+        "name": "Neostigmine*",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 0.5 mg/mL"
+        ]
+    },
+    {
+        "code": "4.2.9",
+        "name": "",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 25 mg/mL"
+        ]
+    },
+    {
+        "code": "4.2.11",
+        "name": "Sodium nitrite",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 30 mg/mL"
+        ]
+    },
+    {
+        "code": "4.2.12",
+        "name": "Sodium thiosulphate",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 250 mg/mL",
+            "Tablet 100 mg",
+            "Tablet 200 mg",
+            "Tablet 400 mg"
+        ]
+    },
+    {
+        "code": "5.1.1",
+        "name": "Carbamazepine*",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Modified Release -",
+            "Tablet 200 mg",
+            "Tablet 400 mg",
+            "Oral liquid 100 mg/5 mL (p)",
+            "Tablet 5 mg",
+            "Tablet 10 mg",
+            "Oral liquid 2 mg/5 mL (p)"
+        ]
+    },
+    {
+        "code": "5.1.3",
+        "name": "Diazepam**",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 5 mg/mL",
+            "Tablet 250 mg",
+            "Tablet 500 mg",
+            "Tablet 750 mg",
+            "Oral liquid 100 mg/mL (p)",
+            "Injection 100 mg/mL",
+            "Tablet 1 mg",
+            "Tablet 2 mg",
+            "Injection 2 mg/mL",
+            "Injection 4 mg/mL"
+        ]
+    },
+    {
+        "code": "5.1.6",
+        "name": "Magnesium sulphate",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 500 mg/mL",
+            "Tablet 7.5 mg",
+            "Tablet 15 mg",
+            "Injection 1 mg/mL",
+            "Injection 5 mg/mL",
+            "Tablet 30 mg",
+            "Oral liquid 20 mg/5 mL (p)",
+            "Tablet 50 mg",
+            "Tablet 100 mg",
+            "Tablet 300 mg",
+            "Oral liquid 30 mg/5 mL (p)",
+            "Oral liquid 125 mg/5 mL (p)",
+            "Injection 25 mg/mL",
+            "Injection 50 mg/mL",
+            "Tablet 200 mg",
+            "Tablet 300 mg",
+            "Tablet 500 mg",
+            "Tablet 300 mg",
+            "Tablet 500 mg",
+            "Oral liquid 200 mg/5 mL (p)",
+            "Tablet 300 mg to 500 mg"
+        ]
+    },
+    {
+        "code": "5.2.1",
+        "name": "",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Effervescent/ Dispersible/ Enteric",
+            "Tablet 200 mg"
+        ]
+    },
+    {
+        "code": "5.2.2",
+        "name": "Ibuprofen*",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 400 mg",
+            "Oral liquid 100 mg/5 mL (p)",
+            "Tablet 500 mg",
+            "Tablet 650 mg"
+        ]
+    },
+    {
+        "code": "5.2.3",
+        "name": "Paracetamol**",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Oral liquid 120 mg/5mL (p)",
+            "Oral Liquid 125 mg/5mL (p)",
+            "Oral Liquid 250 mg/5mL (p)",
+            "Tablet 25 mg",
+            "Tablet 50 mg",
+            "Tablet 10 mg"
+        ]
+    },
+    {
+        "code": "5.2.1.1",
+        "name": "Amitriptyline***",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 25 mg",
+            "Tablet 75 mg",
+            "Tablet 5 mg",
+            "Tablet 10 mg",
+            "Tablet 10 mg"
+        ]
+    },
+    {
+        "code": "5.2.1.3",
+        "name": "Propranolol",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 20 mg",
+            "Tablet 40 mg",
+            "Tablet 100 mg (A) + 10 mg (B)",
+            "Tablet 100 mg (A) + 25 mg (B)",
+            "Tablet 250 mg (A) + 25 mg (B)",
+            "Tablet 100 mg (A) + 25 mg (B)",
+            "Tablet 200 mg (A) + 50 mg (B)"
+        ]
+    },
+    {
+        "code": "5.3.2",
+        "name": "Trihexyphenidyl",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 2 mg",
+            "Tablet 5 mg",
+            "Tablet 10 mg",
+            "Tablet 400 mg"
+        ]
+    },
+    {
+        "code": "6.1.1.1",
+        "name": "Albendazole*",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Chewable Tablet 400 mg",
+            "Oral liquid 200 mg/5 mL (p)",
+            "Tablet 100 mg",
+            "Oral liquid 100 mg/5 mL (p)",
+            "Tablet 400 mg"
+        ]
+    },
+    {
+        "code": "6.1.2.1",
+        "name": "Albendazole*",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Chewable Tablet 400 mg",
+            "Oral liquid 200 mg/5 mL (p)",
+            "Tablet 50 mg"
+        ]
+    },
+    {
+        "code": "6.1.2.2",
+        "name": "",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 100 mg",
+            "Oral liquid 120 mg/5 mL (p)",
+            "Tablet 6 mg",
+            "Tablet 12 mg"
+        ]
+    },
+    {
+        "code": "6.1.3.1",
+        "name": "Praziquantel",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 600 mg",
+            "Capsule 250 mg",
+            "Capsule 500 mg",
+            "Oral liquid 125 mg/5 mL (p)"
+        ]
+    },
+    {
+        "code": "6.2.1.1",
+        "name": "Amoxicillin",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Oral liquid 250 mg/5 mL (p)",
+            "Tablet 500 mg (A) + 125 mg (B)",
+            "Oral liquid 200 mg (A) + 28.5"
+        ]
+    },
+    {
+        "code": "6.2.1.4",
+        "name": "",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Powder for Injection 12 lac units",
+            "Tablet 500 mg"
+        ]
+    },
+    {
+        "code": "6.2.1.6",
+        "name": "Cefadroxil",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 100 mg",
+            "Oral liquid 125 mg/5 mL (p)",
+            "Tablet 200 mg",
+            "Tablet 400 mg",
+            "Oral liquid 50 mg/5 mL (p)",
+            "Oral liquid 100 mg/5 mL (p)"
+        ]
+    },
+    {
+        "code": "6.2.1.9",
+        "name": "Cefotaxime*",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Powder for Injection 500 mg",
+            "Capsule 250 mg",
+            "Capsule 500 mg",
+            "Oral Liquid 125 mg/5 mL (p)",
+            "Tablet 250 mg",
+            "Tablet 500 mg",
+            "Oral liquid 200 mg/5 mL (p)",
+            "Tablet 500 mg",
+            "Oral liquid 125 mg/ 5 mL (p)",
+            "Injection 1500 mg",
+            "Tablet 250 mg",
+            "Tablet 500 mg",
+            "Oral liquid 250 mg/ 5 mL (p)",
+            "Injection 200 mg/ 100 mL",
+            "Tablet 250 mg"
+        ]
+    },
+    {
+        "code": "6.2.2.4",
+        "name": "Clarithromycin**",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 500 mg",
+            "Oral liquid 125 mg/5 mL (p)",
+            "Capsule 150 mg"
+        ]
+    },
+    {
+        "code": "6.2.2.5",
+        "name": "Clindamycin***",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Capsule 300 mg",
+            "Injection 150 mg /mL",
+            "Tablet 400 mg (A) + 80 mg (B)",
+            "Tablet 800 mg (A) + 160 mg (B)",
+            "Oral liquid 200 mg (A) + 40 mg",
+            "Capsule 100 mg"
+        ]
+    },
+    {
+        "code": "6.2.2.7",
+        "name": "Doxycycline*",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Dry Syrup 50 mg/5 mL (p)",
+            "Injection 10 mg/mL",
+            "Injection 40 mg/mL",
+            "Tablet 200 mg",
+            "Tablet 400 mg",
+            "Oral liquid 200 mg/5 mL (p)",
+            "Injection 500 mg/100 mL",
+            "Tablet 100 mg",
+            "Oral liquid 25 mg/5 mL (p)"
+        ]
+    },
+    {
+        "code": "6.2.2.11",
+        "name": "",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 250 mg",
+            "Capsule 125 mg",
+            "Capsule 250 mg"
+        ]
+    },
+    {
+        "code": "6.2.2.13",
+        "name": "Vancomycin",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Powder for Injection 250 mg",
+            "Capsule 50 mg",
+            "Capsule 100 mg",
+            "Tablet 50 mg",
+            "Tablet 100 mg",
+            "Capsule 150 mg",
+            "Capsule 300 mg",
+            "Injection 100 mg/mL"
+        ]
+    },
+    {
+        "code": "6.4.1",
+        "name": "Amikacin",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 250 mg/mL",
+            "Injection 500 mg/mL"
+        ]
+    },
+    {
+        "code": "6.4.2",
+        "name": "Bedaquiline",
+        "levels": [
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 100 mg",
+            "Tablet 250 mg"
+        ]
+    },
+    {
+        "code": "6.4.3",
+        "name": "Clarithromycin***",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 500 mg",
+            "Tablet 750 mg",
+            "Capsule 50 mg",
+            "Capsule 100 mg",
+            "Capsule 125 mg",
+            "Capsule 250 mg"
+        ]
+    },
+    {
+        "code": "6.4.6",
+        "name": "Delamanid",
+        "levels": [
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 50 mg",
+            "Tablet 200 mg",
+            "Tablet 400 mg",
+            "Tablet 600 mg",
+            "Tablet 800 mg",
+            "Tablet 125 mg",
+            "Tablet 250 mg",
+            "Tablet 100 mg"
+        ]
+    },
+    {
+        "code": "6.4.9",
+        "name": "Isoniazid",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 300 mg",
+            "Oral Liquid 50 mg/5 mL (p)",
+            "Tablet 250 mg"
+        ]
+    },
+    {
+        "code": "6.4.10",
+        "name": "Levofloxacin",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 500 mg",
+            "Tablet 750 mg",
+            "Tablet 300 mg",
+            "Tablet 600 mg"
+        ]
+    },
+    {
+        "code": "6.4.12",
+        "name": "Moxifloxacin",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 400 mg",
+            "Tablet 500 mg",
+            "Tablet 750 mg"
+        ]
+    },
+    {
+        "code": "6.4.14",
+        "name": "Pyrazinamide",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 1000 mg",
+            "Tablet 1500 mg",
+            "Oral liquid 250 mg/5 mL (p)",
+            "Capsule 150 mg",
+            "Capsule 300 mg"
+        ]
+    },
+    {
+        "code": "6.4.15",
+        "name": "Rifampicin*",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Capsule 450 mg",
+            "Capsule 600 mg",
+            "Oral liquid 100 mg/ 5 mL (p)"
+        ]
+    },
+    {
+        "code": "6.5.1",
+        "name": "Amphotericin B**",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "b) Lipid Amphotericin B -",
+            "Injection 50 mg/vial",
+            "Injection 50 mg/vial",
+            "Tablet 50 mg",
+            "Tablet 100 mg",
+            "Tablet 150 mg",
+            "Tablet 200 mg",
+            "Tablet 400 mg",
+            "Oral liquid 50 mg/ 5 mL (p)",
+            "Tablet 125 mg"
+        ]
+    },
+    {
+        "code": "6.5.4",
+        "name": "Griseofulvin",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 250 mg",
+            "Tablet 375 mg",
+            "Capsule 100 mg"
+        ]
+    },
+    {
+        "code": "6.5.5",
+        "name": "Itraconazole",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Capsule 200 mg",
+            "Oral liquid 10 mg/mL"
+        ]
+    },
+    {
+        "code": "6.5.6",
+        "name": "Mupirocin",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Ointment 2%",
+            "Oral Liquid 1 Lac IU/mL (p)"
+        ]
+    },
+    {
+        "code": "6.5.8",
+        "name": "Terbinafine",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Cream 1%",
+            "Tablet 200 mg",
+            "Tablet 400 mg",
+            "Tablet 800 mg",
+            "Oral liquid 400 mg/5 mL (p)",
+            "Tablet 450 mg"
+        ]
+    },
+    {
+        "code": "6.6.2.1",
+        "name": "Valganciclovir** S,",
+        "levels": [
+            "T"
+        ],
+        "dosageForms": [
+            "Powder for oral solution 50",
+            "Tablet 60 mg (p)",
+            "Tablet 300 mg",
+            "Tablet 60 mg (A) + 30 mg (B)"
+        ]
+    },
+    {
+        "code": "6.7.1.2",
+        "name": "",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "(p)",
+            "Tablet 600 mg (A) + 300 mg (B)",
+            "Tablet 100 mg",
+            "Tablet 150 mg"
+        ]
+    },
+    {
+        "code": "6.7.1.4",
+        "name": "",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 300 mg"
+        ]
+    },
+    {
+        "code": "6.7.1.5",
+        "name": "Fumarate (A) +",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 300 mg (A) + 300 mg (B)",
+            "Tablet 300 mg",
+            "Oral liquid 50 mg/5 mL (p)",
+            "Tablet 60 mg (A) + 30 mg (B)",
+            "Tablet 300 mg (A) + 150 mg (B)",
+            "Tablet 60 mg (A) + 30 mg (B) +",
+            "Tablet 300 mg (A) + 150 mg (B)",
+            "Tablet 200 mg (p)",
+            "Tablet 600 mg",
+            "Tablet 200 mg"
+        ]
+    },
+    {
+        "code": "6.7.2.2",
+        "name": "Nevirapine",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Dispersible Tablet 50 mg (p)",
+            "Oral liquid 50 mg/ 5 mL (p)"
+        ]
+    },
+    {
+        "code": "6.7.3.1",
+        "name": "Dolutegravir",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 50 mg"
+        ]
+    },
+    {
+        "code": "6.7.3.2",
+        "name": "Raltegravir",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 400 mg"
+        ]
+    },
+    {
+        "code": "6.7.4.2",
+        "name": "Darunavir",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 600 mg",
+            "Tablet 100 mg (A) + 25 mg (B)",
+            "Tablet 200 mg (A) + 50 mg (B)",
+            "Oral Liquid 80 mg (A) +",
+            "Capsule/ Sachet (containing"
+        ]
+    },
+    {
+        "code": "6.7.4.5",
+        "name": "Ritonavir",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 100 mg"
+        ]
+    },
+    {
+        "code": "6.7.5.1",
+        "name": "Acyclovir*",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 250 mg"
+        ]
+    },
+    {
+        "code": "6.7.5.2",
+        "name": "Cefotaxime**",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 1000 mg"
+        ]
+    },
+    {
+        "code": "6.7.5.3",
+        "name": "Clindamycin***",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 300 mg"
+        ]
+    },
+    {
+        "code": "6.7.5.4",
+        "name": "Clotrimazole*",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Ointment 1 %"
+        ]
+    },
+    {
+        "code": "6.7.5.5",
+        "name": "Valganciclovir**",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet/Capsule 450 mg"
+        ]
+    },
+    {
+        "code": "6.7.6.1",
+        "name": "Azithromycin***",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 1000 mg",
+            "Tablet 30 mg",
+            "Tablet 60 mg",
+            "Tablet 0.5 mg"
+        ]
+    },
+    {
+        "code": "6.8.2",
+        "name": "Entecavir",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 1 mg",
+            "Oral liquid 0.05 mg/mL (p)"
+        ]
+    },
+    {
+        "code": "6.8.3",
+        "name": "Ribavirin",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Capsule 200 mg"
+        ]
+    },
+    {
+        "code": "6.8.4",
+        "name": "Sofosbuvir",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 400 mg"
+        ]
+    },
+    {
+        "code": "6.8.5",
+        "name": "Alafenamide",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 25 mg"
+        ]
+    },
+    {
+        "code": "6.8.6",
+        "name": "",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 300 mg",
+            "Tablet 200 mg",
+            "Tablet 400 mg",
+            "Injection 500 mg/100 mL",
+            "Oral liquid 200 mg/5 mL (p)",
+            "Injection 50 mg",
+            "Injection 50 mg"
+        ]
+    },
+    {
+        "code": "6.9.2.2",
+        "name": "",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Capsule 50 mg"
+        ]
+    },
+    {
+        "code": "6.9.2.3",
+        "name": "",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 375 mg/mL",
+            "Capsule 150 mg",
+            "Capsule 300 mg",
+            "Tablet 20 mg (A) + 120 mg (B)"
+        ]
+    },
+    {
+        "code": "6.10.1.1",
+        "name": "",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 40 mg (A) + 240 mg (B)",
+            "Tablet 80 mg (A) + 480 mg (B)"
+        ]
+    },
+    {
+        "code": "6.10.1.3",
+        "name": "Sulphadoxine -",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "1 Tablet 100 mg (A) + 1 Tablet",
+            "Tablet 150 mg",
+            "Oral liquid 50 mg/5 mL",
+            "Capsule 150 mg",
+            "Capsule 300 mg",
+            "Tablet 2.5 mg"
+        ]
+    },
+    {
+        "code": "6.10.1.6",
+        "name": "Primaquine",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 7.5 mg",
+            "Tablet 15 mg",
+            "Tablet 300 mg",
+            "Injection 300 mg/mL",
+            "Capsule 100 mg"
+        ]
+    },
+    {
+        "code": "6.10.2.1",
+        "name": "Doxycycline**#",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Oral liquid 50 mg/ 5mL",
+            "Tablet 250 mg"
+        ]
+    },
+    {
+        "code": "7.1.1",
+        "name": "5-Fluorouracil",
+        "levels": [
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 250 mg/ 5 mL"
+        ]
+    },
+    {
+        "code": "7.1.2",
+        "name": "6-Mercaptopurine",
+        "levels": [
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 50 mg"
+        ]
+    },
+    {
+        "code": "7.1.3",
+        "name": "Actinomycin D",
+        "levels": [
+            "T"
+        ],
+        "dosageForms": [
+            "Powder for Injection 0.5 mg"
+        ]
+    },
+    {
+        "code": "7.1.4",
+        "name": "",
+        "levels": [
+            "T"
+        ],
+        "dosageForms": [
+            "Capsule 10 mg"
+        ]
+    },
+    {
+        "code": "7.1.5",
+        "name": "Arsenic trioxide",
+        "levels": [
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 1mg/ mL"
+        ]
+    },
+    {
+        "code": "7.1.7",
+        "name": "Bleomycin",
+        "levels": [
+            "T"
+        ],
+        "dosageForms": [
+            "Powder for Injection 15 units"
+        ]
+    },
+    {
+        "code": "7.1.8",
+        "name": "Bortezomib",
+        "levels": [
+            "T"
+        ],
+        "dosageForms": [
+            "Powder for Injection 2 mg",
+            "Tablet 15 mg",
+            "Injection 3 mg/mL"
+        ]
+    },
+    {
+        "code": "7.1.10",
+        "name": "Capecitabine",
+        "levels": [
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 500 mg"
+        ]
+    },
+    {
+        "code": "7.1.11",
+        "name": "Carboplatin",
+        "levels": [
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 10 mg/mL",
+            "Tablet 2 mg",
+            "Tablet 5 mg"
+        ]
+    },
+    {
+        "code": "7.1.13",
+        "name": "Cisplatin",
+        "levels": [
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 1mg/mL",
+            "Tablet 50 mg",
+            "Injection 100 mg/vial"
+        ]
+    },
+    {
+        "code": "7.1.15",
+        "name": "Cytosine arabinoside",
+        "levels": [
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 500 mg/vial",
+            "Injection 1000 mg/vial"
+        ]
+    },
+    {
+        "code": "7.1.17",
+        "name": "Daunorubicin",
+        "levels": [
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 5 mg/mL"
+        ]
+    },
+    {
+        "code": "7.1.19",
+        "name": "Doxorubicin",
+        "levels": [
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 2 mg/mL",
+            "Capsule 50 mg",
+            "Injection 20 mg/mL"
+        ]
+    },
+    {
+        "code": "7.1.21",
+        "name": "Gefitinib",
+        "levels": [
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 250 mg"
+        ]
+    },
+    {
+        "code": "7.1.22",
+        "name": "Gemcitabine",
+        "levels": [
+            "T"
+        ],
+        "dosageForms": [
+            "Powder for Injection 200 mg",
+            "Tablet 100 mg",
+            "Tablet 400 mg"
+        ]
+    },
+    {
+        "code": "7.1.26",
+        "name": "",
+        "levels": [
+            "T"
+        ],
+        "dosageForms": [
+            "Solution for injection 20 mg/ mL",
+            "Capsule 5 mg"
+        ]
+    },
+    {
+        "code": "7.1.28",
+        "name": "Lenalidomide",
+        "levels": [
+            "T"
+        ],
+        "dosageForms": [
+            "Capsule 25 mg",
+            "Tablet 2 mg",
+            "Tablet 5 mg",
+            "Tablet 2.5 mg",
+            "Tablet 5 mg",
+            "Tablet 10 mg",
+            "Injection 50 mg/mL",
+            "Injection 5 mg/mL in 10 mL vial",
+            "Injection 5 mg/mL in 20 mL vial",
+            "Injection 30 mg/5 mL",
+            "Injection 100 mg/16.7 mL"
+        ]
+    },
+    {
+        "code": "7.1.33",
+        "name": "Rituximab",
+        "levels": [
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 10 mg/mL",
+            "Capsule 20 mg"
+        ]
+    },
+    {
+        "code": "7.1.34",
+        "name": "Temozolomide",
+        "levels": [
+            "T"
+        ],
+        "dosageForms": [
+            "Capsule 100 mg",
+            "Capsule 250 mg",
+            "Capsule 50 mg",
+            "Capsule 100 mg"
+        ]
+    },
+    {
+        "code": "7.1.36",
+        "name": "Trastuzumab",
+        "levels": [
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 440 mg/50 mL"
+        ]
+    },
+    {
+        "code": "7.1.37",
+        "name": "Vinblastine",
+        "levels": [
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 1 mg/mL"
+        ]
+    },
+    {
+        "code": "7.1.38",
+        "name": "Vincristine",
+        "levels": [
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 1 mg/mL"
+        ]
+    },
+    {
+        "code": "7.2.1",
+        "name": "Bicalutamide",
+        "levels": [
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 50 mg"
+        ]
+    },
+    {
+        "code": "7.2.2",
+        "name": "Letrozole",
+        "levels": [
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 2.5 mg"
+        ]
+    },
+    {
+        "code": "7.2.3",
+        "name": "Leuprolide acetate",
+        "levels": [
+            "T"
+        ],
+        "dosageForms": [
+            "Powder for injection 11.25 mg",
+            "Tablet 10 mg",
+            "Tablet 20 mg",
+            "Tablet 40 mg",
+            "Oral liquid 5 mg/5 mL (p)",
+            "Oral liquid 15 mg/5 mL (p)",
+            "Injection 20 mg/2 mL",
+            "Tablet 10 mg",
+            "Tablet 20 mg"
+        ]
+    },
+    {
+        "code": "7.3.1",
+        "name": "Azathioprine**",
+        "levels": [
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 50 mg",
+            "Capsule 25 mg",
+            "Capsule 50 mg"
+        ]
+    },
+    {
+        "code": "7.3.2",
+        "name": "Cyclosporine",
+        "levels": [
+            "T"
+        ],
+        "dosageForms": [
+            "Capsule 100 mg",
+            "Oral liquid 100 mg/mL (p)",
+            "Injection 50 mg/mL",
+            "Capsule 0.5 mg"
+        ]
+    },
+    {
+        "code": "7.3.4",
+        "name": "Tacrolimus",
+        "levels": [
+            "T"
+        ],
+        "dosageForms": [
+            "Capsule 1 mg",
+            "Capsule 2 mg"
+        ]
+    },
+    {
+        "code": "7.4.1",
+        "name": "Allopurinol*",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 100 mg",
+            "Tablet 10 mg",
+            "Tablet 25 mg",
+            "Tablet 0.5 mg"
+        ]
+    },
+    {
+        "code": "7.4.3",
+        "name": "Dexamethasone***",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 4 mg",
+            "Injection 4 mg/mL",
+            "Tablet 2 mg"
+        ]
+    },
+    {
+        "code": "7.4.4",
+        "name": "Diazepam*",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 5 mg",
+            "Injection 5 mg/mL"
+        ]
+    },
+    {
+        "code": "7.4.6",
+        "name": "Fluoxetine**",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Capsule 20 mg",
+            "Tablet 1.5 mg",
+            "Injection 5 mg/mL"
+        ]
+    },
+    {
+        "code": "7.4.8",
+        "name": "Lactulose****",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Oral liquid 10 g/15 mL"
+        ]
+    },
+    {
+        "code": "7.4.9",
+        "name": "Loperamide",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 2 mg",
+            "Tablet 10 mg",
+            "Injection 5 mg/mL"
+        ]
+    },
+    {
+        "code": "7.4.11",
+        "name": "Mesna",
+        "levels": [
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 100 mg/mL"
+        ]
+    },
+    {
+        "code": "7.4.12",
+        "name": "Midazolam**",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 1 mg/mL",
+            "Tablet 10 mg",
+            "Tablet 4 mg",
+            "Tablet 8 mg",
+            "Oral liquid 2 mg/5 mL (p)",
+            "Injection 2 mg/mL",
+            "Capsule 50 mg"
+        ]
+    },
+    {
+        "code": "7.4.15",
+        "name": "Tramadol*",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Capsule 100 mg",
+            "Injection 50 mg/mL"
+        ]
+    },
+    {
+        "code": "7.4.16",
+        "name": "Zoledronic acid",
+        "levels": [
+            "T"
+        ],
+        "dosageForms": [
+            "Powder for Injection 4 mg",
+            "Injection 2000 IU/mL",
+            "Injection 10000 IU/mL",
+            "Tablet equivalent to 60 mg of",
+            "Tablet 45 mg elemental iron (A)",
+            "Oral liquid 20 mg elemental iron",
+            "Tablet 1 mg",
+            "Tablet 5 mg"
+        ]
+    },
+    {
+        "code": "8.1.5",
+        "name": "Hydroxocobalamin",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 1 mg/mL"
+        ]
+    },
+    {
+        "code": "8.1.6",
+        "name": "Hydroxyurea*",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Capsule 500 mg"
+        ]
+    },
+    {
+        "code": "8.1.7",
+        "name": "Iron sucrose",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 20 mg/mL",
+            "Injection 40 mg/ 0.4 mL",
+            "Injection 60 mg/ 0.6 mL",
+            "Injection 1000 IU/mL",
+            "Injection 5000 IU/mL"
+        ]
+    },
+    {
+        "code": "8.2.4",
+        "name": "Protamine Sulphate",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 10 mg/mL",
+            "Tablet 500 mg",
+            "Injection 100 mg/mL",
+            "Tablet 1 mg",
+            "Tablet 2 mg",
+            "Tablet 3 mg",
+            "Tablet 5 mg"
+        ]
+    },
+    {
+        "code": "9.1.1",
+        "name": "",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "As licensed"
+        ]
+    },
+    {
+        "code": "9.1.2",
+        "name": "",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "As licensed"
+        ]
+    },
+    {
+        "code": "9.1.3",
+        "name": "",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "As licensed"
+        ]
+    },
+    {
+        "code": "9.1.4",
+        "name": "Whole blood",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "As licensed"
+        ]
+    },
+    {
+        "code": "9.2.1",
+        "name": "Dextran-40",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 10 %"
+        ]
+    },
+    {
+        "code": "9.3.1",
+        "name": "",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Powder for Injection 600 IU"
+        ]
+    },
+    {
+        "code": "9.3.3",
+        "name": "Cryoprecipitate",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "As licensed",
+            "Tablet 30 mg"
+        ]
+    },
+    {
+        "code": "10.1.3",
+        "name": "Isosorbide dinitrate",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 5 mg",
+            "Tablet 10 mg",
+            "Tablet 25 mg",
+            "Tablet 50 mg",
+            "Tablet 100 mg"
+        ]
+    },
+    {
+        "code": "10.2.1",
+        "name": "Adenosine",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 3 mg/mL",
+            "Tablet 100 mg"
+        ]
+    },
+    {
+        "code": "10.2.2",
+        "name": "Amiodarone",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 200 mg",
+            "Injection 50 mg/mL",
+            "Tablet 0.25 mg"
+        ]
+    },
+    {
+        "code": "10.2.3",
+        "name": "Digoxin*",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Oral liquid 0.05 mg/mL",
+            "Injection 0.25 mg/mL"
+        ]
+    },
+    {
+        "code": "10.2.4",
+        "name": "Esmolol",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 10 mg/mL"
+        ]
+    },
+    {
+        "code": "10.2.5",
+        "name": "Lignocaine**",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 2%",
+            "Tablet 40 mg"
+        ]
+    },
+    {
+        "code": "10.2.6",
+        "name": "Verapamil",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 80 mg",
+            "Injection 2.5 mg/ mL",
+            "Tablet 2.5 mg"
+        ]
+    },
+    {
+        "code": "10.3.1",
+        "name": "Amlodipine",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 5 mg",
+            "Tablet 10 mg",
+            "Tablet 2.5 mg",
+            "Tablet 5 mg",
+            "Tablet 50 mg",
+            "Tablet 100 mg",
+            "Tablet 2.5 mg",
+            "Tablet 5 mg"
+        ]
+    },
+    {
+        "code": "10.3.6",
+        "name": "S,",
+        "levels": [
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 10 mg/mL",
+            "Tablet 20 mg"
+        ]
+    },
+    {
+        "code": "10.3.7",
+        "name": "Telmisartan",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 40 mg",
+            "Tablet 80 mg",
+            "Tablet 0.25 mg"
+        ]
+    },
+    {
+        "code": "10.4.1",
+        "name": "Digoxin**",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Oral liquid 0.05 mg/mL",
+            "Injection 0.25 mg/mL"
+        ]
+    },
+    {
+        "code": "10.4.2",
+        "name": "Dobutamine",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 50 mg/mL"
+        ]
+    },
+    {
+        "code": "10.4.3",
+        "name": "Dopamine",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 40 mg/mL"
+        ]
+    },
+    {
+        "code": "10.4.4",
+        "name": "Noradrenaline",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 2 mg/mL",
+            "Tablet 25 mg",
+            "Tablet 50 mg",
+            "Tablet 75 mg",
+            "Tablet 150 mg",
+            "Tablet 110 mg",
+            "Tablet 150 mg",
+            "Injection 40 mg/ 0.4 mL",
+            "Injection 60 mg/ 0.6 mL",
+            "Injection 1000 IU/mL",
+            "Injection 5000 IU/mL",
+            "Injection 750,000 IU",
+            "Injection 15,00,000 IU",
+            "Injection 30 mg/vial",
+            "Injection 40 mg/vial",
+            "Tablet 10 mg",
+            "Tablet 20 mg",
+            "Tablet 40 mg",
+            "Tablet 80 mg"
+        ]
+    },
+    {
+        "code": "11.2.1",
+        "name": "Framycetin",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Cream 1 %"
+        ]
+    },
+    {
+        "code": "11.2.2",
+        "name": "Fusidic acid",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Cream 2 %"
+        ]
+    },
+    {
+        "code": "11.2.3",
+        "name": "Silver sulphadiazine",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Cream 1 %"
+        ]
+    },
+    {
+        "code": "11.3.2",
+        "name": "Calamine",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Lotion (As per IP)"
+        ]
+    },
+    {
+        "code": "11.4.1",
+        "name": "Benzoyl peroxide",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Gel 2.5 % - 5 %"
+        ]
+    },
+    {
+        "code": "11.4.2",
+        "name": "",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Solution 1 % (A) + 3 % (B)"
+        ]
+    },
+    {
+        "code": "11.4.3",
+        "name": "Podophyllin resin",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Solution 20 %"
+        ]
+    },
+    {
+        "code": "11.4.4",
+        "name": "Salicylic acid",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Ointment 3-6 %"
+        ]
+    },
+    {
+        "code": "11.6.1",
+        "name": "",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Topical"
+        ]
+    },
+    {
+        "code": "12.1.1",
+        "name": "Fluorescein",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Ophthalmic Strips"
+        ]
+    },
+    {
+        "code": "12.1.2",
+        "name": "Proparacaine*",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Eye Drops 0.5%"
+        ]
+    },
+    {
+        "code": "12.1.3",
+        "name": "Tropicamide**",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Eye drop 1 %"
+        ]
+    },
+    {
+        "code": "12.2.1",
+        "name": "Barium sulphate",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Oral Liquid 95% w/v"
+        ]
+    },
+    {
+        "code": "12.2.2",
+        "name": "",
+        "levels": [
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 529 mg/mL",
+            "Injection 140 to 350 mg"
+        ]
+    },
+    {
+        "code": "13.1",
+        "name": "",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "As licensed"
+        ]
+    },
+    {
+        "code": "13.2",
+        "name": "",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "As licensed"
+        ]
+    },
+    {
+        "code": "14.1.1",
+        "name": "Chlorhexidine",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Solution 5% (Concentrate)"
+        ]
+    },
+    {
+        "code": "14.1.2",
+        "name": "",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Solution 70%"
+        ]
+    },
+    {
+        "code": "14.1.3",
+        "name": "Hydrogen peroxide",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Solution 6 %"
+        ]
+    },
+    {
+        "code": "14.1.4",
+        "name": "chloride",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Topical preparation 0.25% to 2%"
+        ]
+    },
+    {
+        "code": "14.1.5",
+        "name": "Povidone iodine*",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Solution 4 % to 10 %"
+        ]
+    },
+    {
+        "code": "14.2.1",
+        "name": "Glutaraldehyde",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "As Licensed",
+            "Tablet 40 mg"
+        ]
+    },
+    {
+        "code": "15.1",
+        "name": "Furosemide",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Oral liquid 10 mg/mL",
+            "Injection 10 mg/ mL",
+            "Injection 10 %",
+            "Injection 20 %",
+            "Tablet 25 mg",
+            "Tablet 50 mg"
+        ]
+    },
+    {
+        "code": "16.2",
+        "name": "Ciprofloxacin**",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Drops 0.3 %"
+        ]
+    },
+    {
+        "code": "16.3",
+        "name": "Clotrimazole***",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Drops 1 %",
+            "Capsule 10 mg",
+            "Capsule 20 mg",
+            "Capsule 40 mg"
+        ]
+    },
+    {
+        "code": "17.1.2",
+        "name": "Pantoprazole",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 40 mg",
+            "Tablet 10 mg",
+            "Oral Liquid 1 mg/mL",
+            "Tablet 10 mg",
+            "Injection 5 mg/mL",
+            "Tablet 4 mg"
+        ]
+    },
+    {
+        "code": "17.2.3",
+        "name": "Ondansetron*",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Oral Liquid 2 mg/5 mL (p)",
+            "Injection 2 mg/ mL",
+            "Tablet 400 mg"
+        ]
+    },
+    {
+        "code": "17.3.1",
+        "name": "S,",
+        "levels": [
+            "T"
+        ],
+        "dosageForms": [
+            "Suppository 500 mg",
+            "Tablet 10 mg"
+        ]
+    },
+    {
+        "code": "17.4.1",
+        "name": "Dicyclomine",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Oral Solution 10 mg/5mL",
+            "Injection 10 mg/ mL",
+            "Tablet 5 mg"
+        ]
+    },
+    {
+        "code": "17.5.2",
+        "name": "Ispaghula",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Granules/ Husk/ Powder"
+        ]
+    },
+    {
+        "code": "17.5.3",
+        "name": "Lactulose*",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Oral Liquid 10 g/15 mL",
+            "Oral rehydration"
+        ]
+    },
+    {
+        "code": "17.6.1",
+        "name": "",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "As licensed"
+        ]
+    },
+    {
+        "code": "17.6.2",
+        "name": "Zinc Sulphate",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Dispersible Tablet 20 mg"
+        ]
+    },
+    {
+        "code": "17.7.1",
+        "name": "Somatostatin",
+        "levels": [
+            "T"
+        ],
+        "dosageForms": [
+            "Powder for Injection 3 mg",
+            "Tablet 0.5 mg",
+            "Injection 4 mg/mL"
+        ]
+    },
+    {
+        "code": "18.1.2",
+        "name": "Fludrocortisone",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 0.1 mg",
+            "Tablet 5 mg",
+            "Tablet 10 mg",
+            "Tablet 20 mg"
+        ]
+    },
+    {
+        "code": "18.1.4",
+        "name": "",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 40mg/mL",
+            "Tablet 5 mg",
+            "Tablet 10 mg"
+        ]
+    },
+    {
+        "code": "18.1.5",
+        "name": "Prednisolone*",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 20 mg",
+            "Oral liquid 5 mg/5 mL (p)",
+            "Oral liquid 15 mg/5 mL (p)",
+            "Tablet 0.75 mg",
+            "Tablet 1.5 mg"
+        ]
+    },
+    {
+        "code": "18.2.1.3",
+        "name": "",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 30 mg"
+        ]
+    },
+    {
+        "code": "18.2.2.2",
+        "name": "",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "As licensed",
+            "Tablet 1 mg",
+            "Tablet 2 mg"
+        ]
+    },
+    {
+        "code": "18.3.1.2",
+        "name": "Insulin (Soluble)",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 40 IU/mL"
+        ]
+    },
+    {
+        "code": "18.3.1.3",
+        "name": "Intermediate",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 40 IU/mL"
+        ]
+    },
+    {
+        "code": "18.3.1.4",
+        "name": "Insulin Glargine",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 100 IU/mL"
+        ]
+    },
+    {
+        "code": "18.3.1.5",
+        "name": "Injection 30:70",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 40 IU/mL",
+            "Tablet 500 mg"
+        ]
+    },
+    {
+        "code": "18.3.1.6",
+        "name": "Metformin",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 1000 mg"
+        ]
+    },
+    {
+        "code": "18.3.1.7",
+        "name": "Teneligliptin",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 20 mg"
+        ]
+    },
+    {
+        "code": "18.3.2.1",
+        "name": "Glucose*",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 25 %",
+            "Tablet 50 mg",
+            "Tablet 100 mg",
+            "Injection 2000 IU"
+        ]
+    },
+    {
+        "code": "18.4.2",
+        "name": "",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 5000 IU",
+            "Injection 10000 IU",
+            "Tablet 5 mg"
+        ]
+    },
+    {
+        "code": "18.5.1",
+        "name": "",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 10 mg",
+            "Injection 150 mg/ mL"
+        ]
+    },
+    {
+        "code": "18.5.2",
+        "name": "Norethisterone",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 5 mg",
+            "Tablet 5 mg"
+        ]
+    },
+    {
+        "code": "18.6.1",
+        "name": "Carbimazole",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 10 mg",
+            "Tablet 20 mg",
+            "Tablet 12.5 mcg to 150 mcg*"
+        ]
+    },
+    {
+        "code": "18.6.2",
+        "name": "Levothyroxine",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "market such as 12.5",
+            "25",
+            "50",
+            "62.5",
+            "75"
+        ]
+    },
+    {
+        "code": "19.1.1",
+        "name": "Purified Protein",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "As Licensed"
+        ]
+    },
+    {
+        "code": "19.2.1",
+        "name": "",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "As Licensed"
+        ]
+    },
+    {
+        "code": "19.2.3",
+        "name": "",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "As Licensed"
+        ]
+    },
+    {
+        "code": "19.2.4",
+        "name": "Diphtheria antitoxin",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "As Licensed"
+        ]
+    },
+    {
+        "code": "19.2.6",
+        "name": "",
+        "levels": [
+            "T"
+        ],
+        "dosageForms": [
+            "As Licensed"
+        ]
+    },
+    {
+        "code": "19.3.1",
+        "name": "BCG vaccine",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "As licensed"
+        ]
+    },
+    {
+        "code": "19.3.2",
+        "name": "",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "As licensed"
+        ]
+    },
+    {
+        "code": "19.3.3",
+        "name": "DPT vaccine",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "As licensed"
+        ]
+    },
+    {
+        "code": "19.3.4",
+        "name": "Hepatitis B vaccine",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "As licensed"
+        ]
+    },
+    {
+        "code": "19.3.5",
+        "name": "",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "As licensed"
+        ]
+    },
+    {
+        "code": "19.3.6",
+        "name": "Measles vaccine",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "As licensed",
+            "Oral poliomyelitis"
+        ]
+    },
+    {
+        "code": "19.3.7",
+        "name": "",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "As licensed"
+        ]
+    },
+    {
+        "code": "19.3.8",
+        "name": "Rotavirus vaccine",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "As licensed"
+        ]
+    },
+    {
+        "code": "19.3.9",
+        "name": "Tetanus toxoid",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "As licensed"
+        ]
+    },
+    {
+        "code": "19.4.1",
+        "name": "Rabies vaccine",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "As licensed"
+        ]
+    },
+    {
+        "code": "20.1",
+        "name": "Alprostadil",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 0.5 mg/mL",
+            "Oral liquid 20 mg/mL",
+            "Injection 20 mg/mL",
+            "Suspension for intratracheal"
+        ]
+    },
+    {
+        "code": "21.1.1",
+        "name": "Acyclovir*",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Ointment 3%",
+            "Drops 0.3%"
+        ]
+    },
+    {
+        "code": "21.1.3",
+        "name": "Natamycin",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Drops 5 %"
+        ]
+    },
+    {
+        "code": "21.1.4",
+        "name": "Povidone iodine***",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Drops 5 %"
+        ]
+    },
+    {
+        "code": "21.2.1",
+        "name": "Prednisolone****",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Drops 1 %"
+        ]
+    },
+    {
+        "code": "21.3.1",
+        "name": "Proparacaine*",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Drops 0.5 %"
+        ]
+    },
+    {
+        "code": "21.4.1",
+        "name": "Acetazolamide",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 250 mg"
+        ]
+    },
+    {
+        "code": "21.4.2",
+        "name": "Latanoprost",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Drops 0.005 %",
+            "Drops 2 %",
+            "Drops 4 %",
+            "Drops 0.25 %",
+            "Drops 0.5 %",
+            "Drops 1%"
+        ]
+    },
+    {
+        "code": "21.5.2",
+        "name": "Homatropine",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Drops 2%",
+            "Drops 5 %",
+            "Drops 10 %"
+        ]
+    },
+    {
+        "code": "21.5.4",
+        "name": "Tropicamide*",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Drops 1 %"
+        ]
+    },
+    {
+        "code": "21.6.2",
+        "name": "",
+        "levels": [
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 2%",
+            "Tablet 0.5 mg",
+            "Tablet 0.125 mg",
+            "Injection 0.2 mg/mL"
+        ]
+    },
+    {
+        "code": "22.1.3",
+        "name": "Mifepristone",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 200 mg",
+            "Tablet 100 mcg",
+            "Tablet 200 mcg",
+            "Injection 5 IU/mL",
+            "Injection 10 IU/mL"
+        ]
+    },
+    {
+        "code": "22.2.1",
+        "name": "Betamethasone",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 4 mg/mL"
+        ]
+    },
+    {
+        "code": "22.2.2",
+        "name": "Nifedipine",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 10 mg",
+            "Tablet 25 mg"
+        ]
+    },
+    {
+        "code": "23.1.1",
+        "name": "Clozapine",
+        "levels": [
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 50 mg",
+            "Tablet 100 mg"
+        ]
+    },
+    {
+        "code": "23.1.2",
+        "name": "Fluphenazine",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 25 mg/mL",
+            "Tablet 2 mg",
+            "Tablet 5 mg",
+            "Tablet 10 mg",
+            "Tablet 20 mg",
+            "Oral liquid 2 mg/5 mL",
+            "Injection 5 mg/mL",
+            "Tablet 1 mg",
+            "Tablet 2 mg",
+            "Tablet 4 mg",
+            "Oral liquid 1 mg/mL",
+            "Injection (Long acting) 25 mg",
+            "Injection (Long acting) 37.5 mg",
+            "Tablet 10 mg",
+            "Tablet 25 mg",
+            "Tablet 50 mg",
+            "Tablet 75 mg",
+            "Tablet 5 mg"
+        ]
+    },
+    {
+        "code": "23.2.1.2",
+        "name": "Escitalopram",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 10 mg",
+            "Tablet 20 mg",
+            "Capsule 10 mg",
+            "Capsule 20 mg",
+            "Capsule 40 mg",
+            "Capsule 60 mg"
+        ]
+    },
+    {
+        "code": "23.2.2.1",
+        "name": "Lithium",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 300 mg",
+            "Tablet 200 mg",
+            "Tablet 300 mg",
+            "Tablet 500 mg",
+            "Tablet 300 mg",
+            "Tablet 500 mg",
+            "Tablet 100 mg",
+            "Tablet 200 mg",
+            "Tablet 400 mg",
+            "Tablet 200 mg",
+            "Tablet 400 mg",
+            "Oral liquid 100 mg/5 mL (p)",
+            "Tablet 0.25 mg"
+        ]
+    },
+    {
+        "code": "23.3.1",
+        "name": "Clonazepam",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 0.5 mg",
+            "Tablet 1 mg",
+            "Tablet 5 mg",
+            "Tablet 10 mg",
+            "Capsule 10 mg"
+        ]
+    },
+    {
+        "code": "23.4.1",
+        "name": "Clomipramine",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Capsule 25 mg",
+            "Capsule 75 mg",
+            "Capsule 10 mg",
+            "Capsule 20 mg",
+            "Capsule 40 mg",
+            "Capsule 60 mg"
+        ]
+    },
+    {
+        "code": "23.5.1",
+        "name": "Buprenorphine",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet (Sub-lingual) 0.4 mg",
+            "Tablet (Sub-lingual) 0.4 mg (A)",
+            "Oral Dosage forms 2 mg",
+            "Oral Dosage forms 4 mg"
+        ]
+    },
+    {
+        "code": "24.1.2",
+        "name": "",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "(A)",
+            "Tablet 4 mg",
+            "Tablet 5 mg",
+            "Tablet 10 mg",
+            "Tablet 2 mg",
+            "Tablet 4 mg",
+            "Oral liquid 2 mg/5 mL"
+        ]
+    },
+    {
+        "code": "24.1.6",
+        "name": "Salbutamol",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Inhalation (MDI/DPI*) 100",
+            "Injection 5 %",
+            "Injection 10 %",
+            "Injection 25 %",
+            "Injection 50 %"
+        ]
+    },
+    {
+        "code": "25.1.2",
+        "name": "",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 5% (A) + 0.9 % (B)",
+            "Oral rehydration"
+        ]
+    },
+    {
+        "code": "25.1.3",
+        "name": "",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "As licensed"
+        ]
+    },
+    {
+        "code": "25.1.5",
+        "name": "Ringer lactate",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Injection (as per IP)"
+        ]
+    },
+    {
+        "code": "25.1.6",
+        "name": "Sodium bicarbonate",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Injection (as per IP)"
+        ]
+    },
+    {
+        "code": "25.2.1",
+        "name": "Water for Injection",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Injection",
+            "Tablet 625 mg (equivalent to",
+            "Tablet 1250 mg (equivalent to"
+        ]
+    },
+    {
+        "code": "26.3",
+        "name": "Calcium gluconate*",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 100 mg/mL"
+        ]
+    },
+    {
+        "code": "26.4",
+        "name": "Cholecalciferol",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Solid oral dosage form 60000 IU",
+            "Oral liquid 400 IU/mL",
+            "Tablet 10 mg"
+        ]
+    },
+    {
+        "code": "26.5",
+        "name": "Pyridoxine",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 50 mg",
+            "Tablet 100 mg"
+        ]
+    },
+    {
+        "code": "26.6",
+        "name": "Riboflavin",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 10 mg",
+            "Tablet 100 mg",
+            "Injection 100 mg/mL",
+            "Capsule/Tablet 50000 IU",
+            "Oral liquid 100000 IU/mL",
+            "Injection 50000 IU/mL",
+            "Tablet 0.5 mg",
+            "Tablet 2 mg"
+        ]
+    },
+    {
+        "code": "27.1",
+        "name": "Dexamethasone*",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 4 mg",
+            "Oral liquid 0.5 mg/5 mL (p)",
+            "Injection 4 mg/mL",
+            "Injection 40 mg/ 0.4 mL",
+            "Injection 60 mg/ 0.6 mL"
+        ]
+    },
+    {
+        "code": "27.3",
+        "name": "",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 40 mg/mL",
+            "Tablet 500 mg",
+            "Tablet 650 mg"
+        ]
+    },
+    {
+        "code": "27.4",
+        "name": "Paracetamol**",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Oral liquid 120 mg/5 mL (p)",
+            "Oral Liquid 125 mg/5 mL (p)",
+            "Oral Liquid 250 mg/5 mL (p)"
+        ]
+    },
+    {
+        "code": "27.5",
+        "name": "Oxygen***",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "As licensed for medical purpose",
+            "Tablet 6 mg",
+            "Tablet 12 mg",
+            "Tablet 500 mg"
+        ]
+    },
+    {
+        "code": "3",
+        "name": "6.2.2.2 Cefuroxime",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Syrup 125 mg/ 5 mL (p)",
+            "Injection 1500 mg"
+        ]
+    },
+    {
+        "code": "4",
+        "name": "6.2.2.11",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 250 mg",
+            "Injection 100 mg/mL"
+        ]
+    },
+    {
+        "code": "6",
+        "name": "6.4.1 Amikacin",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 250 mg/mL",
+            "Injection 500 mg/mL"
+        ]
+    },
+    {
+        "code": "7",
+        "name": "6.4.2 Bedaquiline",
+        "levels": [
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 100 mg"
+        ]
+    },
+    {
+        "code": "8",
+        "name": "6.4.7 Delamanid",
+        "levels": [
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 50 mg",
+            "Capsule 100 mg"
+        ]
+    },
+    {
+        "code": "9",
+        "name": "6.5.5 Itraconazole",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Capsule 200 mg",
+            "Oral liquid 10 mg/mL"
+        ]
+    },
+    {
+        "code": "10",
+        "name": "6.5.6 Mupirocin",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Ointment 2%"
+        ]
+    },
+    {
+        "code": "11",
+        "name": "6.5.8 Terbinafine",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Cream 1%",
+            "Tablet 450 mg"
+        ]
+    },
+    {
+        "code": "12",
+        "name": "6.6.2.1 Valganciclovir S,",
+        "levels": [
+            "T"
+        ],
+        "dosageForms": [
+            "Powder for oral solution 50",
+            "Tablet 100 mg",
+            "Tablet 150 mg",
+            "Tablet 300 mg (A) +"
+        ]
+    },
+    {
+        "code": "15",
+        "name": "6.7.3.1 Dolutegravir",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 50 mg",
+            "Tablet 60 mg",
+            "Tablet 30 mg"
+        ]
+    },
+    {
+        "code": "18",
+        "name": "6.8.5 Alafenamide",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 25 mg"
+        ]
+    },
+    {
+        "code": "20",
+        "name": "7.1.26",
+        "levels": [
+            "T"
+        ],
+        "dosageForms": [
+            "Solution for injection 20 mg/ mL",
+            "Capsule 5 mg",
+            "Capsule 25 mg"
+        ]
+    },
+    {
+        "code": "22",
+        "name": "7.2.3",
+        "levels": [
+            "T"
+        ],
+        "dosageForms": [
+            "Powder for injection 11.25 mg",
+            "Tablet 110 mg",
+            "Tablet 150 mg",
+            "Injection 30 mg/vial",
+            "Injection 40 mg/vial"
+        ]
+    },
+    {
+        "code": "25",
+        "name": "18.1.2 Fludrocortisone",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 100 mcg"
+        ]
+    },
+    {
+        "code": "26",
+        "name": "18.2.3",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 30 mg"
+        ]
+    },
+    {
+        "code": "27",
+        "name": "18.3.1.4",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Injection 100 IU/mL"
+        ]
+    },
+    {
+        "code": "28",
+        "name": "18.3.1.7 Teneligliptin",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 20 mg"
+        ]
+    },
+    {
+        "code": "29",
+        "name": "19.4.8 P, S,",
+        "levels": [
+            "T"
+        ],
+        "dosageForms": [
+            "As licensed"
+        ]
+    },
+    {
+        "code": "30",
+        "name": "21.4.2 Latanoprost",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Drops 0.005 %",
+            "Tablet (Sub-lingual)",
+            "Tablet (Sub-lingual) 0.4 mg (A) +",
+            "Tablet (Sub-lingual) 2 mg (A) +",
+            "Tablet 4 mg",
+            "Tablet 5 mg",
+            "Tablet 10 mg"
+        ]
+    },
+    {
+        "code": "1",
+        "name": "1.2.4",
+        "levels": [
+            "T"
+        ],
+        "dosageForms": [
+            "Cream 2.5% (A) + 2.5% (B)",
+            "Tablet 10 mg",
+            "Tablet 20 mg",
+            "Tablet 4 mg",
+            "Oral liquid 2 mg/5 ml",
+            "Injection 50 mg/ml"
+        ]
+    },
+    {
+        "code": "5",
+        "name": "6.2.4.1 Capreomycin",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Powder for Injection 1 g"
+        ]
+    },
+    {
+        "code": "7",
+        "name": "6.2.4.12 Rifabutin",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Capsule 150 mg"
+        ]
+    },
+    {
+        "code": "6.4.2.1",
+        "name": "Ganciclovir",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Powder for Injection 500"
+        ]
+    },
+    {
+        "code": "9",
+        "name": "6.4.3.1.3 Nevirapine",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 150mg (A) + 200mg",
+            "Injection 80 mcg",
+            "Injection 120 mcg"
+        ]
+    },
+    {
+        "code": "12",
+        "name": "6.5.1.1 furoate",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 500 mg"
+        ]
+    },
+    {
+        "code": "13",
+        "name": "6.5.4.2 Pentamidine",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Powder for Injection 200 mg"
+        ]
+    },
+    {
+        "code": "14",
+        "name": "8.1.30 Procarbazine",
+        "levels": [
+            "T"
+        ],
+        "dosageForms": [
+            "Capsule 50 mg",
+            "Tablet 250 mg",
+            "Tablet 500 mg",
+            "Tablet 50 mg",
+            "Tablet 100 mg"
+        ]
+    },
+    {
+        "code": "14.6.2",
+        "name": "White",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Jelly 100%",
+            "Solution 20 %"
+        ]
+    },
+    {
+        "code": "20",
+        "name": "17.2.1",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "30%w/w of available chlorine"
+        ]
+    },
+    {
+        "code": "21",
+        "name": "20.1.4 Sucralfate",
+        "levels": [
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Oral liquid 1g",
+            "Tablet 150 mg"
+        ]
+    },
+    {
+        "code": "22",
+        "name": "20.1.3 Ranitidine",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Oral liquid 75 mg/5 mL",
+            "Injection 25 mg/mL"
+        ]
+    },
+    {
+        "code": "23",
+        "name": "21.2.1.2",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 0.035 mg (A) +1 mg (B)"
+        ]
+    },
+    {
+        "code": "24",
+        "name": "21.3.1",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 0.01 mg",
+            "Tablet 0.05 mg"
+        ]
+    },
+    {
+        "code": "25",
+        "name": "25.1.3 Erythromycin",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Ointment 0.5 %"
+        ]
+    },
+    {
+        "code": "26",
+        "name": "30.5 Nicotinamide",
+        "levels": [
+            "P",
+            "S",
+            "T"
+        ],
+        "dosageForms": [
+            "Tablet 50 mg",
+            "Oral poliomyelitis vaccine, 70 Ringer lactate, 81",
+            "Oral rehydration salts, 62, 80 Risperidone, 75"
+        ]
+    }
+]

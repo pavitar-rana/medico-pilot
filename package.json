@@ -9,6 +9,8 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@ai-sdk/google": "^2.0.11",
+    "@ai-sdk/react": "^2.0.27",
     "@auth/prisma-adapter": "^2.10.0",
     "@azure-rest/ai-document-intelligence": "^1.0.0",
     "@azure/core-auth": "^1.10.0",
@@ -16,9 +18,11 @@
     "@google-cloud/vision": "^5.3.3",
     "@prisma/client": "^6.15.0",
     "@radix-ui/react-slot": "^1.2.3",
+    "ai": "^5.0.27",
     "axios": "^1.11.0",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
+    "fuse.js": "^7.1.0",
     "lucide-react": "^0.542.0",
     "next": "15.5.2",
     "next-auth": "^5.0.0-beta.29",
@@ -26,7 +30,8 @@
     "react": "19.1.0",
     "react-dom": "19.1.0",
     "tailwind-merge": "^3.3.1",
-    "uuid": "^11.1.0"
+    "uuid": "^11.1.0",
+    "zod": "^4.1.5"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
